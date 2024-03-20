@@ -1,0 +1,41 @@
+sync_time: 0.5648987293243408 sec 
+threading_time: 0.6040480136871338 sec 
+multiprocessing_time: 0.1158287525177002 sec 
+
+sync_time: 0.568469762802124 sec 
+threading_time: 0.629119873046875 sec 
+multiprocessing_time: 0.1176753044128418 sec 
+
+sync_time: 0.556380033493042 sec 
+threading_time: 0.6064403057098389 sec 
+multiprocessing_time: 0.1177206039428711 sec 
+
+sync_time: 0.5475142002105713 sec 
+threading_time: 0.6211473941802979 sec 
+multiprocessing_time: 0.11591529846191406 sec 
+
+sync_time: 0.5545833110809326 sec 
+threading_time: 0.6349976062774658 sec 
+multiprocessing_time: 0.11262941360473633 sec 
+
+sync_time: 0.5508320331573486 sec 
+threading_time: 0.6042990684509277 sec 
+multiprocessing_time: 0.1128687858581543 sec 
+
+sync_time: 0.5478570461273193 sec 
+threading_time: 0.613837718963623 sec 
+multiprocessing_time: 0.11008238792419434 sec 
+
+sync_time: 0.5435607433319092 sec 
+threading_time: 0.6045660972595215 sec 
+multiprocessing_time: 0.11660313606262207 sec 
+
+sync_time: 0.5446186065673828 sec 
+threading_time: 0.6141841411590576 sec 
+multiprocessing_time: 0.1111760139465332 sec 
+
+sync_time: 0.542367696762085 sec 
+threading_time: 0.6147475242614746 sec 
+multiprocessing_time: 0.11382484436035156 sec 
+
+Как видно из лога на 10 потоках выполняется дольше, чем на одном потоке, но на 10 процессах выполняется в 5 раз быстрее
